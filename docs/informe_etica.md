@@ -2,7 +2,7 @@
 
 **Proyecto:** TelcoGuard AI – Predicción de Fuga de Clientes (Churn)  
 **Organización simulada:** NovaTel Telecomunicaciones  
-**Responsable:** Sofía Méndez (Product Owner) — Equipo TelcoGuard AI  
+**Responsable:** Sofía Rovenzzo (Product Owner) — Equipo TelcoGuard AI  
 
 ---
 
