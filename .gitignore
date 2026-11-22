@@ -1,1 +1,14 @@
-.gitignore
+# Entornos virtuales y Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Notebooks y datos sensibles (Nunca subir datasets con PII)
+.ipynb_checkpoints/
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
