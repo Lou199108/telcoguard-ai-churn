@@ -18,7 +18,7 @@
 
 ---
 
-## 👥 2. Equipo de Trabajo (Metodologías Scrum)
+## 👥 2. Equipo de Trabajo (Metodología Scrum)
 
 <table>
   <thead>
@@ -174,7 +174,7 @@ El análisis y entrenamiento se ejecutaron sobre una base de **7.032 clientes v�
 ---
 
 ## 🛠️ 5. Herramientas y Enlaces
-* **Tablero de Gestión (Trello):** 👉 *https://trello.com/b/OzU9PoOo/telcoguard-ai-prediccion-de-churn*
+* **Tablero de Gestión (Trello):** 👉 [Ver Tablero en Trello](https://trello.com/b/OzU9PoOo/telcoguard-ai-prediccion-de-churn)
 * **Control de Versiones:** Git & GitHub (flujo `dev` → `main` mediante Pull Request)
 * **Stack Técnico:** Python, Pandas, Scikit-Learn
 
