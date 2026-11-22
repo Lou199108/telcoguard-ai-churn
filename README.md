@@ -170,6 +170,7 @@ El análisis y entrenamiento se ejecutaron sobre una base de **7.032 clientes v�
   * **Precision:** `50,0%`
 
 * **Variables más influyentes:** Antigüedad del cliente (`tenure`, 19,6%), contrato bianual (`Contract_Two year`, 14,1%), servicio de fibra óptica (`InternetService_Fiber optic`, 12,0%) y cargos totales (`TotalCharges`, 11,9%).
+  
 ---
 
 ## 🛠️ 5. Herramientas y Enlaces
