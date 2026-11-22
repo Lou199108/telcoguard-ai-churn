@@ -1,6 +1,6 @@
 """
 TelcoGuard AI - Modelo Predictivo de Fuga de Clientes (Churn)
-Responsables: Camila Torres (Ingesta/Ética), Valentina Ruiz (EDA), Lucas Fernández (Modelado)
+Responsables: Camila Torres (Ingesta/Ética), Valentina Ruiz (EDA), Lucas Gavazzi (Modelado)
 """
 
 import pandas as pd
