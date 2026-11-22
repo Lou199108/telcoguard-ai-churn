@@ -1,7 +1,7 @@
 # ⚖️ Informe de Ética y Responsabilidad Profesional
 
 **Proyecto:** TelcoGuard AI – Predicción de Fuga de Clientes (Churn)  
-**Organización simulada:** NovaTel Telecomunicaciones  
+**Organización:** NovaTel Telecomunicaciones  
 **Responsable:** Sofía Rovenzzo (Product Owner) — Equipo TelcoGuard AI  
 
 ---
