@@ -154,7 +154,7 @@
 
 ---
 
-## 📊 4. Resultados Clave (Simulación)
+## 📊 4. Resultados Clave 
 * **Hallazgo del EDA:** Los clientes con contrato *mes a mes* y más de 2 reclamos técnicos en el último trimestre concentran el **68% de las cancelaciones**.
 * **Desempeño del modelo (Random Forest):**
   * **Recall:** `84%` *(métrica prioritaria para detectar la mayor cantidad posible de clientes en riesgo)*.
