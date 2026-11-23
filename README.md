@@ -187,6 +187,5 @@ El análisis completo sobre privacidad, anonimización y mitigación de sesgos s
 ---
 
 <div align="center">
-  <p>Proyecto Integrador Final — <strong>Lourdes Splendido</strong><br/>
-  Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial | Instituto Nuevos Aires</p>
+  <p><strong>Lourdes Splendido</strong><br/>
 </div>
